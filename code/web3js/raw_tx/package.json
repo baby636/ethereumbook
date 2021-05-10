@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "ethereumjs-tx": "^1.3.3",
-    "ethereumjs-util": "^5.1.5",
+    "ethereumjs-util": "^7.0.10",
     "rlp": "^2.0.0"
   }
 }
